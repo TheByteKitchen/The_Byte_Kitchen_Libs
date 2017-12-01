@@ -1,6 +1,5 @@
 # The_Byte_Kitchen_Libs
 
-Project Description
 This project is related to The Byte Kitchen Blog (at thebytekitchen.com). It typically deals with Windows 8 apps, DirectX, and the Kinect for Windows.
 
 This project is entirely made up of subprojects, is has no code of its own. Short descriptions of the subprojects are below.
